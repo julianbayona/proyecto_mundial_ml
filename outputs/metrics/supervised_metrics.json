@@ -1,0 +1,15 @@
+{
+  "baseline_accuracy": 0.5294,
+  "baseline_precision": 0.0,
+  "baseline_recall": 0.0,
+  "baseline_f1_score": 0.0,
+  "baseline_auc_roc": 0.5,
+  "model_accuracy": 0.6118,
+  "precision": 0.6061,
+  "recall": 0.5,
+  "f1_score": 0.5479,
+  "auc_roc": 0.6397,
+  "train_size": 339,
+  "test_size": 85,
+  "random_state": 42
+}
