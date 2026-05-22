@@ -1,0 +1,67 @@
+{
+  "best_k": 3,
+  "best_silhouette": 0.3213,
+  "kmeans_evaluation": [
+    {
+      "k": 2,
+      "inertia": 233.0671,
+      "silhouette": 0.2902
+    },
+    {
+      "k": 3,
+      "inertia": 178.7913,
+      "silhouette": 0.3213
+    },
+    {
+      "k": 4,
+      "inertia": 138.9021,
+      "silhouette": 0.2968
+    },
+    {
+      "k": 5,
+      "inertia": 119.9644,
+      "silhouette": 0.2904
+    },
+    {
+      "k": 6,
+      "inertia": 103.4658,
+      "silhouette": 0.1908
+    },
+    {
+      "k": 7,
+      "inertia": 86.8561,
+      "silhouette": 0.1903
+    },
+    {
+      "k": 8,
+      "inertia": 71.8008,
+      "silhouette": 0.2138
+    }
+  ],
+  "cluster_features": [
+    "avg_total_goals",
+    "avg_abs_goal_diff",
+    "n_matches",
+    "n_teams",
+    "group_stage_share",
+    "overall_advance_rate",
+    "host_region_team_share",
+    "share_UEFA",
+    "share_CONMEBOL",
+    "share_CONCACAF",
+    "share_CAF",
+    "share_AFC",
+    "share_OFC",
+    "advance_rate_UEFA",
+    "advance_rate_CONMEBOL",
+    "advance_rate_CONCACAF",
+    "advance_rate_CAF",
+    "advance_rate_AFC",
+    "advance_rate_OFC"
+  ],
+  "n_editions": 20,
+  "pca_explained_variance_ratio": [
+    0.3925,
+    0.2094
+  ]
+}
