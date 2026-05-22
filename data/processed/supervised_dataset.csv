@@ -1,0 +1,425 @@
+year,team,host_continent,team_confederation,is_host_region,historical_appearances,historical_win_rate,historical_avg_goals_scored,advanced_group_stage
+1930,Argentina,South America,CONMEBOL,1,0,0.0,0.0,1
+1930,Belgium,South America,UEFA,0,0,0.0,0.0,0
+1930,Bolivia,South America,CONMEBOL,1,0,0.0,0.0,0
+1930,Brazil,South America,CONMEBOL,1,0,0.0,0.0,0
+1930,Chile,South America,CONMEBOL,1,0,0.0,0.0,0
+1930,France,South America,UEFA,0,0,0.0,0.0,0
+1930,Mexico,South America,CONCACAF,0,0,0.0,0.0,0
+1930,Paraguay,South America,CONMEBOL,1,0,0.0,0.0,0
+1930,Peru,South America,CONMEBOL,1,0,0.0,0.0,0
+1930,Romania,South America,UEFA,0,0,0.0,0.0,0
+1930,Serbia,South America,UEFA,0,0,0.0,0.0,1
+1930,United States,South America,CONCACAF,0,0,0.0,0.0,1
+1930,Uruguay,South America,CONMEBOL,1,0,0.0,0.0,1
+1934,Argentina,Europe,CONMEBOL,0,1,1.0,3.3333,0
+1934,Austria,Europe,UEFA,1,0,0.0,0.0,1
+1934,Belgium,Europe,UEFA,1,1,0.0,0.0,0
+1934,Brazil,Europe,CONMEBOL,0,1,0.5,2.5,0
+1934,Czech Republic,Europe,UEFA,1,0,0.0,0.0,1
+1934,Egypt,Europe,CAF,0,0,0.0,0.0,0
+1934,France,Europe,UEFA,1,1,0.3333,1.3333,0
+1934,Germany,Europe,UEFA,1,0,0.0,0.0,1
+1934,Hungary,Europe,UEFA,1,0,0.0,0.0,1
+1934,Italy,Europe,UEFA,1,0,0.0,0.0,1
+1934,Netherlands,Europe,UEFA,1,0,0.0,0.0,0
+1934,Romania,Europe,UEFA,1,1,0.5,1.5,0
+1934,Spain,Europe,UEFA,1,0,0.0,0.0,1
+1934,Sweden,Europe,UEFA,1,0,0.0,0.0,1
+1934,Switzerland,Europe,UEFA,1,0,0.0,0.0,1
+1934,United States,Europe,CONCACAF,0,1,1.0,3.0,0
+1938,Belgium,Europe,UEFA,1,2,0.0,0.6667,0
+1938,Brazil,Europe,CONMEBOL,0,2,0.3333,2.0,1
+1938,Cuba,Europe,CONCACAF,0,0,0.0,0.0,1
+1938,Czech Republic,Europe,UEFA,1,1,1.0,2.0,1
+1938,France,Europe,UEFA,1,2,0.25,1.5,1
+1938,Germany,Europe,UEFA,1,1,1.0,5.0,0
+1938,Hungary,Europe,UEFA,1,1,1.0,4.0,1
+1938,Indonesia,Europe,AFC,0,0,0.0,0.0,0
+1938,Italy,Europe,UEFA,1,1,1.0,7.0,1
+1938,Netherlands,Europe,UEFA,1,1,0.0,2.0,0
+1938,Norway,Europe,UEFA,1,0,0.0,0.0,0
+1938,Poland,Europe,UEFA,1,0,0.0,0.0,0
+1938,Romania,Europe,UEFA,1,2,0.3333,1.3333,0
+1938,Switzerland,Europe,UEFA,1,1,1.0,3.0,1
+1950,Bolivia,South America,CONMEBOL,1,1,0.0,0.0,0
+1950,Brazil,South America,CONMEBOL,1,3,0.5,3.0,0
+1950,Chile,South America,CONMEBOL,1,1,0.6667,1.6667,0
+1950,England,South America,UEFA,0,0,0.0,0.0,0
+1950,Italy,South America,UEFA,0,2,1.0,4.5,0
+1950,Mexico,South America,CONCACAF,0,1,0.0,1.3333,0
+1950,Paraguay,South America,CONMEBOL,1,1,0.5,0.5,0
+1950,Serbia,South America,UEFA,0,1,1.0,3.0,0
+1950,Spain,South America,UEFA,0,1,1.0,3.0,0
+1950,Sweden,South America,UEFA,0,1,1.0,3.0,0
+1950,Switzerland,South America,UEFA,0,2,0.6667,2.6667,0
+1950,United States,South America,CONCACAF,0,2,0.6667,2.3333,0
+1950,Uruguay,South America,CONMEBOL,1,1,1.0,2.5,0
+1954,Austria,Europe,UEFA,1,1,1.0,3.0,1
+1954,Belgium,Europe,UEFA,1,3,0.0,0.75,0
+1954,Brazil,Europe,CONMEBOL,0,4,0.6,3.4,1
+1954,Czech Republic,Europe,UEFA,1,2,1.0,2.5,0
+1954,England,Europe,UEFA,1,1,0.3333,0.6667,1
+1954,France,Europe,UEFA,1,3,0.4,1.8,0
+1954,Germany,Europe,UEFA,1,2,0.3333,2.6667,1
+1954,Hungary,Europe,UEFA,1,2,1.0,5.0,1
+1954,Italy,Europe,UEFA,1,3,0.75,3.25,0
+1954,Mexico,Europe,CONCACAF,0,2,0.0,1.0,0
+1954,Scotland,Europe,UEFA,1,0,0.0,0.0,0
+1954,Serbia,Europe,UEFA,1,2,0.8,2.6,1
+1954,South Korea,Europe,AFC,0,0,0.0,0.0,0
+1954,Switzerland,Europe,UEFA,1,3,0.5,2.0,1
+1954,Turkey,Europe,UEFA,1,0,0.0,0.0,0
+1954,Uruguay,Europe,CONMEBOL,0,2,0.8333,3.3333,1
+1958,Argentina,Europe,CONMEBOL,0,2,0.75,3.0,0
+1958,Austria,Europe,UEFA,1,2,1.0,3.0,0
+1958,Brazil,Europe,CONMEBOL,0,5,0.5833,3.3333,1
+1958,Czech Republic,Europe,UEFA,1,3,0.5,1.25,0
+1958,England,Europe,UEFA,1,2,0.4,1.6,0
+1958,France,Europe,UEFA,1,4,0.4286,1.7143,1
+1958,Germany,Europe,UEFA,1,3,0.5,3.6667,1
+1958,Hungary,Europe,UEFA,1,3,1.0,6.75,0
+1958,Mexico,Europe,CONCACAF,0,3,0.0,1.0,0
+1958,Northern Ireland,Europe,UEFA,1,0,0.0,0.0,1
+1958,Paraguay,Europe,CONMEBOL,0,2,0.25,0.75,0
+1958,Russia,Europe,UEFA,1,0,0.0,0.0,1
+1958,Scotland,Europe,UEFA,1,1,0.0,0.0,0
+1958,Serbia,Europe,UEFA,1,3,0.7143,2.1429,1
+1958,Sweden,Europe,UEFA,1,2,0.5,2.3333,1
+1958,Wales,Europe,UEFA,1,0,0.0,0.0,1
+1962,Argentina,South America,CONMEBOL,1,3,0.5714,2.4286,0
+1962,Brazil,South America,CONMEBOL,1,6,0.6,3.0,1
+1962,Bulgaria,South America,UEFA,0,0,0.0,0.0,0
+1962,Chile,South America,CONMEBOL,1,2,0.5,1.6667,1
+1962,Colombia,South America,CONMEBOL,1,0,0.0,0.0,0
+1962,Czech Republic,South America,UEFA,0,4,0.375,1.75,1
+1962,England,South America,UEFA,0,3,0.2222,1.3333,1
+1962,Germany,South America,UEFA,0,4,0.4444,3.2222,1
+1962,Hungary,South America,UEFA,0,4,0.625,4.25,1
+1962,Italy,South America,UEFA,0,4,0.5714,2.7143,0
+1962,Mexico,South America,CONCACAF,0,4,0.0,0.8182,0
+1962,Russia,South America,UEFA,0,1,0.5,1.25,1
+1962,Serbia,South America,UEFA,0,4,0.6,2.2,1
+1962,Spain,South America,UEFA,0,2,0.5714,1.8571,0
+1962,Switzerland,South America,UEFA,0,4,0.5556,2.0,0
+1962,Uruguay,South America,CONMEBOL,1,3,0.875,3.625,0
+1966,Argentina,Europe,CONMEBOL,0,4,0.5,1.9,1
+1966,Brazil,Europe,CONMEBOL,0,7,0.6111,2.7222,0
+1966,Bulgaria,Europe,UEFA,1,1,0.0,0.3333,0
+1966,Chile,Europe,CONMEBOL,0,3,0.5556,1.6667,0
+1966,England,Europe,UEFA,1,4,0.25,1.3333,1
+1966,France,Europe,UEFA,1,5,0.5,2.3,0
+1966,Germany,Europe,UEFA,1,5,0.5,2.75,1
+1966,Hungary,Europe,UEFA,1,5,0.6364,3.8182,1
+1966,Italy,Europe,UEFA,1,5,0.5,2.2,0
+1966,Mexico,Europe,CONCACAF,0,5,0.0714,0.8571,0
+1966,North Korea,Europe,AFC,0,0,0.0,0.0,1
+1966,Portugal,Europe,UEFA,1,0,0.0,0.0,1
+1966,Russia,Europe,UEFA,1,2,0.5714,1.8571,1
+1966,Spain,Europe,UEFA,1,3,0.5,1.5,0
+1966,Switzerland,Europe,UEFA,1,5,0.4167,1.6667,0
+1966,Uruguay,Europe,CONMEBOL,0,4,0.7273,3.0,1
+1970,Belgium,North America,UEFA,0,4,0.0,1.3333,0
+1970,Brazil,North America,CONMEBOL,0,8,0.5714,2.5238,1
+1970,Bulgaria,North America,UEFA,0,2,0.0,0.3333,0
+1970,Czech Republic,North America,UEFA,0,5,0.3636,1.4545,0
+1970,El Salvador,North America,CONCACAF,1,0,0.0,0.0,0
+1970,England,North America,UEFA,0,5,0.3333,1.3333,1
+1970,Germany,North America,UEFA,0,6,0.5333,2.6667,1
+1970,Israel,North America,UEFA,0,0,0.0,0.0,0
+1970,Italy,North America,UEFA,0,6,0.4615,1.8462,1
+1970,Mexico,North America,CONCACAF,1,6,0.0588,0.7647,1
+1970,Morocco,North America,CAF,0,0,0.0,0.0,0
+1970,Peru,North America,CONMEBOL,0,1,0.0,0.5,1
+1970,Romania,North America,UEFA,0,3,0.2,1.6,0
+1970,Russia,North America,UEFA,0,3,0.7,1.9,1
+1970,Sweden,North America,UEFA,0,3,0.5556,2.1111,0
+1970,Uruguay,North America,CONMEBOL,0,5,0.6429,2.5,1
+1974,Argentina,Europe,CONMEBOL,0,5,0.5385,1.7692,0
+1974,Australia,Europe,AFC,0,0,0.0,0.0,0
+1974,Brazil,Europe,CONMEBOL,0,9,0.625,2.5417,1
+1974,Bulgaria,Europe,UEFA,1,3,0.0,0.7778,0
+1974,Chile,Europe,CONMEBOL,0,4,0.4167,1.4167,0
+1974,DR Congo,Europe,CAF,0,0,0.0,0.0,0
+1974,German DR,Europe,UEFA,1,0,0.0,0.0,0
+1974,Germany,Europe,UEFA,1,7,0.6111,2.7778,1
+1974,Haiti,Europe,CONCACAF,0,0,0.0,0.0,0
+1974,Italy,Europe,UEFA,1,7,0.4375,1.5625,0
+1974,Netherlands,Europe,UEFA,1,2,0.0,1.0,1
+1974,Poland,Europe,UEFA,1,1,0.0,5.0,1
+1974,Scotland,Europe,UEFA,1,2,0.0,0.8,0
+1974,Serbia,Europe,UEFA,1,5,0.6154,2.3077,0
+1974,Sweden,Europe,UEFA,1,4,0.5,1.75,0
+1974,Uruguay,Europe,CONMEBOL,0,6,0.5882,2.1765,0
+1978,Argentina,South America,CONMEBOL,1,6,0.4211,1.6842,1
+1978,Austria,South America,UEFA,0,3,0.5,1.8333,0
+1978,Brazil,South America,CONMEBOL,1,10,0.6,2.2333,1
+1978,France,South America,UEFA,0,6,0.3846,1.9231,0
+1978,Germany,South America,UEFA,0,8,0.6667,2.5417,0
+1978,Hungary,South America,UEFA,0,6,0.6429,3.5,0
+1978,Iran,South America,AFC,0,0,0.0,0.0,0
+1978,Italy,South America,UEFA,0,8,0.4211,1.5789,1
+1978,Mexico,South America,CONCACAF,0,7,0.15,0.9,0
+1978,Netherlands,South America,UEFA,0,3,0.625,2.0,1
+1978,Peru,South America,CONMEBOL,1,2,0.4,1.6,0
+1978,Poland,South America,UEFA,0,2,0.7143,2.8571,0
+1978,Scotland,South America,UEFA,0,3,0.125,0.875,0
+1978,Spain,South America,UEFA,0,4,0.4615,1.4615,0
+1978,Sweden,South America,UEFA,0,5,0.4444,1.5556,0
+1978,Tunisia,South America,CAF,0,0,0.0,0.0,0
+1982,Algeria,Europe,CAF,0,0,0.0,0.0,0
+1982,Argentina,Europe,CONMEBOL,0,7,0.48,1.76,0
+1982,Austria,Europe,UEFA,1,4,0.5,1.5,0
+1982,Belgium,Europe,UEFA,1,5,0.1111,1.3333,0
+1982,Brazil,Europe,CONMEBOL,0,11,0.5833,2.0833,0
+1982,Cameroon,Europe,CAF,0,0,0.0,0.0,0
+1982,Chile,Europe,CONMEBOL,0,5,0.3333,1.2,0
+1982,Czech Republic,Europe,UEFA,1,6,0.2857,1.2857,0
+1982,El Salvador,Europe,CONCACAF,0,1,0.0,0.0,0
+1982,England,Europe,UEFA,1,6,0.3889,1.2222,0
+1982,France,Europe,UEFA,1,7,0.375,1.875,1
+1982,Germany,Europe,UEFA,1,9,0.5667,2.3667,1
+1982,Honduras,Europe,CONCACAF,0,0,0.0,0.0,0
+1982,Hungary,Europe,UEFA,1,7,0.5294,3.0588,0
+1982,Italy,Europe,UEFA,1,9,0.48,1.52,1
+1982,Kuwait,Europe,AFC,0,0,0.0,0.0,0
+1982,New Zealand,Europe,OFC,0,0,0.0,0.0,0
+1982,Northern Ireland,Europe,UEFA,1,1,0.5,1.5,0
+1982,Peru,Europe,CONMEBOL,0,3,0.3636,1.3636,0
+1982,Poland,Europe,UEFA,1,3,0.6154,2.0,1
+1982,Russia,Europe,UEFA,1,4,0.6923,1.9231,0
+1982,Scotland,Europe,UEFA,1,4,0.1818,1.0909,0
+1982,Serbia,Europe,UEFA,1,6,0.4737,2.2105,0
+1982,Spain,Europe,UEFA,1,5,0.4375,1.3125,0
+1986,Algeria,North America,CAF,0,1,0.6667,1.6667,0
+1986,Argentina,North America,CONMEBOL,0,8,0.4667,1.7333,1
+1986,Belgium,North America,UEFA,0,6,0.2143,1.0714,1
+1986,Brazil,North America,CONMEBOL,0,12,0.6098,2.1951,1
+1986,Bulgaria,North America,UEFA,0,4,0.0,0.75,1
+1986,Canada,North America,CONCACAF,1,0,0.0,0.0,0
+1986,Denmark,North America,UEFA,0,0,0.0,0.0,1
+1986,England,North America,UEFA,0,7,0.4348,1.2174,1
+1986,France,North America,UEFA,0,8,0.4286,1.9524,1
+1986,Germany,North America,UEFA,0,10,0.5714,2.2571,1
+1986,Hungary,North America,UEFA,0,8,0.5,3.2,0
+1986,Iraq,North America,AFC,0,0,0.0,0.0,0
+1986,Italy,North America,UEFA,0,10,0.4667,1.5,1
+1986,Mexico,North America,CONCACAF,1,8,0.1304,0.8696,1
+1986,Morocco,North America,CAF,0,1,0.0,0.6667,1
+1986,Northern Ireland,North America,UEFA,0,2,0.3333,1.2222,0
+1986,Paraguay,North America,CONMEBOL,0,3,0.2857,1.7143,1
+1986,Poland,North America,UEFA,0,4,0.5556,1.8889,1
+1986,Portugal,North America,UEFA,0,1,1.0,3.0,0
+1986,Russia,North America,UEFA,0,5,0.6111,1.7778,1
+1986,Scotland,North America,UEFA,0,5,0.2143,1.4286,0
+1986,South Korea,North America,AFC,0,1,0.0,0.0,0
+1986,Spain,North America,UEFA,0,6,0.381,1.1905,1
+1986,Uruguay,North America,CONMEBOL,0,7,0.5,1.9,1
+1990,Argentina,Europe,CONMEBOL,0,9,0.4848,1.7576,1
+1990,Austria,Europe,UEFA,1,5,0.4706,1.3529,0
+1990,Belgium,Europe,UEFA,1,7,0.2353,1.1765,1
+1990,Brazil,Europe,CONMEBOL,0,13,0.6364,2.1591,1
+1990,Cameroon,Europe,CAF,0,1,0.0,0.3333,1
+1990,Colombia,Europe,CONMEBOL,0,1,0.0,1.6667,1
+1990,Costa Rica,Europe,CONCACAF,0,0,0.0,0.0,1
+1990,Czech Republic,Europe,UEFA,1,7,0.2353,1.1765,1
+1990,Egypt,Europe,CAF,0,1,0.0,2.0,0
+1990,England,Europe,UEFA,1,8,0.4231,1.1923,1
+1990,Germany,Europe,UEFA,1,11,0.5526,2.1579,1
+1990,Ireland,Europe,UEFA,1,0,0.0,0.0,1
+1990,Italy,Europe,UEFA,1,11,0.4545,1.5152,1
+1990,Netherlands,Europe,UEFA,1,4,0.5714,2.1429,1
+1990,Romania,Europe,UEFA,1,4,0.25,1.5,1
+1990,Russia,Europe,UEFA,1,6,0.619,1.9524,0
+1990,Scotland,Europe,UEFA,1,6,0.1765,1.2353,0
+1990,Serbia,Europe,UEFA,1,7,0.4545,2.0,1
+1990,South Korea,Europe,AFC,0,2,0.0,0.8,0
+1990,Spain,Europe,UEFA,1,7,0.4167,1.25,1
+1990,Sweden,Europe,UEFA,1,6,0.381,1.381,0
+1990,United Arab Emirates,Europe,AFC,0,0,0.0,0.0,0
+1990,United States,Europe,CONCACAF,0,3,0.5,1.8333,0
+1990,Uruguay,Europe,CONMEBOL,0,8,0.4348,1.7391,1
+1994,Argentina,North America,CONMEBOL,0,10,0.4722,1.6944,1
+1994,Belgium,North America,UEFA,0,8,0.3,1.3,1
+1994,Bolivia,North America,CONMEBOL,0,2,0.0,0.0,0
+1994,Brazil,North America,CONMEBOL,0,14,0.6596,2.1064,1
+1994,Bulgaria,North America,UEFA,0,5,0.0,0.7333,1
+1994,Cameroon,North America,CAF,0,2,0.3333,0.6667,0
+1994,Colombia,North America,CONMEBOL,0,2,0.1667,1.3333,0
+1994,Germany,North America,UEFA,0,12,0.561,2.2439,1
+1994,Greece,North America,UEFA,0,0,0.0,0.0,0
+1994,Ireland,North America,UEFA,0,1,0.0,0.6667,1
+1994,Italy,North America,UEFA,0,12,0.5,1.5,1
+1994,Mexico,North America,CONCACAF,1,9,0.1923,0.9231,1
+1994,Morocco,North America,CAF,0,2,0.1667,0.8333,0
+1994,Netherlands,North America,UEFA,0,5,0.4706,1.8824,1
+1994,Nigeria,North America,CAF,0,0,0.0,0.0,1
+1994,Norway,North America,UEFA,0,1,0.0,1.0,0
+1994,Romania,North America,UEFA,0,5,0.2727,1.4545,1
+1994,Russia,North America,UEFA,0,7,0.5833,1.875,0
+1994,Saudi Arabia,North America,AFC,0,0,0.0,0.0,1
+1994,South Korea,North America,AFC,0,3,0.0,0.625,0
+1994,Spain,North America,UEFA,0,8,0.4444,1.2963,1
+1994,Sweden,North America,UEFA,0,7,0.3333,1.3333,1
+1994,Switzerland,North America,UEFA,0,6,0.3333,1.4,1
+1994,United States,North America,CONCACAF,1,4,0.3333,1.4444,1
+1998,Argentina,Europe,CONMEBOL,0,11,0.4872,1.7179,1
+1998,Austria,Europe,UEFA,1,6,0.45,1.25,0
+1998,Belgium,Europe,UEFA,1,9,0.3478,1.2174,0
+1998,Brazil,Europe,CONMEBOL,0,15,0.66,2.1,1
+1998,Bulgaria,Europe,UEFA,1,6,0.1111,0.9444,0
+1998,Cameroon,Europe,CAF,0,3,0.2222,0.7778,0
+1998,Chile,Europe,CONMEBOL,0,6,0.2778,1.1667,1
+1998,Colombia,Europe,CONMEBOL,0,3,0.2222,1.3333,0
+1998,Croatia,Europe,UEFA,1,0,0.0,0.0,1
+1998,Denmark,Europe,UEFA,1,1,1.0,3.0,1
+1998,England,Europe,UEFA,1,9,0.4138,1.1379,1
+1998,France,Europe,UEFA,1,9,0.4583,1.9167,1
+1998,Germany,Europe,UEFA,1,13,0.5682,2.2045,1
+1998,Iran,Europe,AFC,0,1,0.0,0.6667,0
+1998,Italy,Europe,UEFA,1,13,0.4872,1.4359,1
+1998,Jamaica,Europe,CONCACAF,0,0,0.0,0.0,0
+1998,Japan,Europe,AFC,0,0,0.0,0.0,0
+1998,Mexico,Europe,CONCACAF,0,10,0.2069,0.931,1
+1998,Morocco,Europe,CAF,0,3,0.1111,0.7778,0
+1998,Netherlands,Europe,UEFA,1,6,0.5,1.8,1
+1998,Nigeria,Europe,CAF,0,1,0.6667,2.0,1
+1998,Norway,Europe,UEFA,1,2,0.25,0.5,1
+1998,Paraguay,Europe,CONMEBOL,0,4,0.3,1.6,1
+1998,Romania,Europe,UEFA,1,6,0.3571,1.5,1
+1998,Saudi Arabia,Europe,AFC,0,1,0.6667,1.3333,0
+1998,Scotland,Europe,UEFA,1,7,0.2,1.15,0
+1998,Serbia,Europe,UEFA,1,8,0.48,2.0,1
+1998,South Africa,Europe,CAF,0,0,0.0,0.0,0
+1998,South Korea,Europe,AFC,0,4,0.0,0.8182,0
+1998,Spain,Europe,UEFA,1,9,0.4333,1.3667,0
+1998,Tunisia,Europe,CAF,0,1,0.3333,1.0,0
+1998,United States,Europe,CONCACAF,0,5,0.3333,1.3333,0
+2002,Argentina,Asia,CONMEBOL,0,12,0.5238,1.7619,0
+2002,Belgium,Asia,UEFA,0,10,0.3077,1.1923,1
+2002,Brazil,Asia,CONMEBOL,0,16,0.6604,2.0943,1
+2002,Cameroon,Asia,CAF,0,4,0.1667,0.75,0
+2002,China PR,Asia,AFC,1,0,0.0,0.0,0
+2002,Costa Rica,Asia,CONCACAF,0,1,0.6667,1.0,0
+2002,Croatia,Asia,UEFA,0,1,0.6667,1.3333,0
+2002,Denmark,Asia,UEFA,0,2,0.6667,2.0,1
+2002,Ecuador,Asia,CONMEBOL,0,0,0.0,0.0,0
+2002,England,Asia,UEFA,0,10,0.4375,1.1875,1
+2002,France,Asia,UEFA,0,10,0.5185,2.037,0
+2002,Germany,Asia,UEFA,0,14,0.5745,2.1915,1
+2002,Ireland,Asia,UEFA,0,2,0.1667,0.6667,1
+2002,Italy,Asia,UEFA,0,14,0.5,1.5,1
+2002,Japan,Asia,AFC,1,1,0.0,0.3333,1
+2002,Mexico,Asia,CONCACAF,0,11,0.2188,1.0625,1
+2002,Nigeria,Asia,CAF,0,2,0.6667,1.8333,0
+2002,Paraguay,Asia,CONMEBOL,0,5,0.3077,1.4615,1
+2002,Poland,Asia,UEFA,0,5,0.5238,1.6667,0
+2002,Portugal,Asia,UEFA,0,2,0.6667,1.8333,0
+2002,Russia,Asia,UEFA,0,8,0.5556,1.9259,0
+2002,Saudi Arabia,Asia,AFC,1,2,0.3333,1.0,0
+2002,Senegal,Asia,CAF,0,0,0.0,0.0,1
+2002,Slovenia,Asia,UEFA,0,0,0.0,0.0,0
+2002,South Africa,Asia,CAF,0,1,0.0,1.0,0
+2002,South Korea,Asia,AFC,1,5,0.0,0.7857,1
+2002,Spain,Asia,UEFA,0,10,0.4242,1.4848,1
+2002,Sweden,Asia,UEFA,0,8,0.3333,1.4074,1
+2002,Tunisia,Asia,CAF,0,2,0.1667,0.6667,0
+2002,Turkey,Asia,UEFA,0,1,0.3333,3.3333,1
+2002,United States,Asia,CONCACAF,0,6,0.2667,1.1333,1
+2002,Uruguay,Asia,CONMEBOL,0,9,0.4231,1.6154,0
+2006,Angola,Europe,CAF,0,0,0.0,0.0,0
+2006,Argentina,Europe,CONMEBOL,0,13,0.5111,1.6889,1
+2006,Australia,Europe,AFC,0,1,0.0,0.0,1
+2006,Brazil,Europe,CONMEBOL,0,17,0.6786,2.1786,1
+2006,Costa Rica,Europe,CONCACAF,0,2,0.5,1.3333,0
+2006,Croatia,Europe,UEFA,1,2,0.5,1.0,0
+2006,Czech Republic,Europe,UEFA,1,8,0.3,1.3,0
+2006,Ecuador,Europe,CONMEBOL,0,1,0.3333,0.6667,1
+2006,England,Europe,UEFA,1,11,0.4286,1.1429,1
+2006,France,Europe,UEFA,1,11,0.4667,1.8333,1
+2006,Germany,Europe,UEFA,1,15,0.58,2.28,1
+2006,Ghana,Europe,CAF,0,0,0.0,0.0,1
+2006,Iran,Europe,AFC,0,2,0.1667,0.6667,0
+2006,Italy,Europe,UEFA,1,15,0.4889,1.4889,1
+2006,Ivory Coast,Europe,CAF,0,0,0.0,0.0,0
+2006,Japan,Europe,AFC,0,2,0.3333,1.0,0
+2006,Mexico,Europe,CONCACAF,0,12,0.2571,1.0857,1
+2006,Netherlands,Europe,UEFA,1,7,0.4783,1.8696,1
+2006,Paraguay,Europe,CONMEBOL,0,6,0.3125,1.5625,0
+2006,Poland,Europe,UEFA,1,6,0.5,1.5833,0
+2006,Portugal,Europe,UEFA,1,3,0.5556,1.8889,1
+2006,Saudi Arabia,Europe,AFC,0,3,0.2222,0.6667,0
+2006,Serbia,Europe,UEFA,1,9,0.5,1.9286,0
+2006,South Korea,Europe,AFC,0,6,0.1176,0.8824,0
+2006,Spain,Europe,UEFA,1,11,0.4722,1.6111,1
+2006,Sweden,Europe,UEFA,1,9,0.3333,1.4,1
+2006,Switzerland,Europe,UEFA,1,7,0.3333,1.4444,1
+2006,Togo,Europe,CAF,0,0,0.0,0.0,0
+2006,Trinidad and Tobago,Europe,CONCACAF,0,0,0.0,0.0,0
+2006,Tunisia,Europe,CAF,0,3,0.1111,0.5556,0
+2006,Ukraine,Europe,UEFA,1,0,0.0,0.0,1
+2006,United States,Europe,CONCACAF,0,7,0.2778,1.2222,0
+2010,Algeria,Africa,CAF,1,2,0.3333,1.0,0
+2010,Argentina,Africa,CONMEBOL,0,14,0.5208,1.75,1
+2010,Australia,Africa,AFC,0,2,0.1667,0.8333,0
+2010,Brazil,Africa,CONMEBOL,0,18,0.6949,2.1864,1
+2010,Cameroon,Africa,CAF,1,5,0.2,0.7333,0
+2010,Chile,Africa,CONMEBOL,0,7,0.2381,1.1905,1
+2010,Denmark,Africa,UEFA,0,3,0.6667,1.8889,0
+2010,England,Africa,UEFA,0,12,0.4474,1.1842,1
+2010,France,Africa,UEFA,0,12,0.4545,1.7576,0
+2010,Germany,Africa,UEFA,0,16,0.6038,2.3019,1
+2010,Ghana,Africa,CAF,1,1,0.6667,1.3333,1
+2010,Greece,Africa,UEFA,0,1,0.0,0.0,0
+2010,Honduras,Africa,CONCACAF,0,1,0.0,0.6667,0
+2010,Italy,Africa,UEFA,0,16,0.5,1.5,0
+2010,Ivory Coast,Africa,CAF,1,1,0.3333,1.6667,0
+2010,Japan,Africa,AFC,0,3,0.2222,0.8889,1
+2010,Mexico,Africa,CONCACAF,0,13,0.2632,1.1053,1
+2010,Netherlands,Africa,UEFA,0,8,0.5,1.7692,1
+2010,New Zealand,Africa,OFC,0,1,0.0,0.6667,0
+2010,Nigeria,Africa,CAF,1,3,0.4444,1.3333,0
+2010,North Korea,Africa,AFC,0,1,0.3333,0.6667,0
+2010,Paraguay,Africa,CONMEBOL,0,7,0.3158,1.4211,1
+2010,Portugal,Africa,UEFA,0,4,0.6667,1.8333,1
+2010,Serbia,Africa,UEFA,0,10,0.4516,1.8065,0
+2010,Slovakia,Africa,UEFA,0,0,0.0,0.0,1
+2010,Slovenia,Africa,UEFA,0,1,0.0,0.6667,0
+2010,South Africa,Africa,CAF,1,2,0.1667,1.3333,0
+2010,South Korea,Africa,AFC,0,7,0.15,0.9,1
+2010,Spain,Africa,UEFA,0,12,0.5128,1.6923,1
+2010,Switzerland,Africa,UEFA,0,8,0.381,1.4286,0
+2010,United States,Africa,CONCACAF,0,8,0.2381,1.1429,1
+2010,Uruguay,Africa,CONMEBOL,0,10,0.3793,1.5862,1
+2014,Algeria,South America,CAF,0,3,0.2222,0.6667,1
+2014,Argentina,South America,CONMEBOL,1,15,0.549,1.7843,1
+2014,Australia,South America,AFC,0,3,0.2222,0.8889,0
+2014,Belgium,South America,UEFA,0,11,0.3103,1.2759,1
+2014,Bosnia-Herzegovina,South America,UEFA,0,0,0.0,0.0,0
+2014,Brazil,South America,CONMEBOL,1,19,0.6935,2.1613,1
+2014,Cameroon,South America,CAF,0,6,0.1667,0.7222,0
+2014,Chile,South America,CONMEBOL,1,8,0.2917,1.1667,1
+2014,Colombia,South America,CONMEBOL,1,4,0.25,1.0833,1
+2014,Costa Rica,South America,CONCACAF,0,3,0.3333,1.2222,1
+2014,Croatia,South America,UEFA,0,3,0.3333,0.8889,0
+2014,Ecuador,South America,CONMEBOL,1,2,0.5,1.1667,0
+2014,England,South America,UEFA,0,13,0.439,1.1463,0
+2014,France,South America,UEFA,0,13,0.4167,1.6389,1
+2014,Germany,South America,UEFA,0,17,0.6071,2.2679,1
+2014,Ghana,South America,CAF,0,2,0.5,1.0,0
+2014,Greece,South America,UEFA,0,2,0.1667,0.3333,1
+2014,Honduras,South America,CONCACAF,0,2,0.0,0.3333,0
+2014,Iran,South America,AFC,0,3,0.1111,0.6667,0
+2014,Italy,South America,UEFA,0,17,0.4706,1.4902,0
+2014,Ivory Coast,South America,CAF,0,2,0.3333,1.5,0
+2014,Japan,South America,AFC,0,4,0.3333,1.0,0
+2014,Mexico,South America,CONCACAF,0,14,0.2683,1.0976,1
+2014,Netherlands,South America,UEFA,0,9,0.5517,1.7586,1
+2014,Nigeria,South America,CAF,0,4,0.3333,1.25,1
+2014,Portugal,South America,UEFA,0,5,0.6,1.9333,0
+2014,Russia,South America,UEFA,0,9,0.5333,1.8667,0
+2014,South Korea,South America,AFC,0,8,0.1739,1.0,0
+2014,Spain,South America,UEFA,0,13,0.5238,1.6667,0
+2014,Switzerland,South America,UEFA,0,9,0.375,1.2917,1
+2014,United States,South America,CONCACAF,0,9,0.25,1.1667,1
+2014,Uruguay,South America,CONMEBOL,1,11,0.4062,1.5625,1
